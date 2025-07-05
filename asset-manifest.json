@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/preeti-bissoyi-portfolio/static/css/main.603edb81.css",
+    "main.js": "/preeti-bissoyi-portfolio/static/js/main.8fa22c63.js",
+    "index.html": "/preeti-bissoyi-portfolio/index.html",
+    "main.603edb81.css.map": "/preeti-bissoyi-portfolio/static/css/main.603edb81.css.map",
+    "main.8fa22c63.js.map": "/preeti-bissoyi-portfolio/static/js/main.8fa22c63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.603edb81.css",
+    "static/js/main.8fa22c63.js"
+  ]
+}
